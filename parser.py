@@ -54,6 +54,6 @@ def formatter(value):
 
 #call function above to parse config file 
 #examle config.txt
-print(parse(os.path.join(os.getcwd(),'config.txt')))
+#print(parse(os.path.join(os.getcwd(),'config.txt')))
 
 
