@@ -11,7 +11,7 @@ import re
 import json
 
 #main function to parse
-def parse(fullfilepath):
+def custom_parser(fullfilepath):
     
     config = {}
     #read file 
